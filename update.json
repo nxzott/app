@@ -1,0 +1,10 @@
+{
+  "visibility": "Visible",
+  "Title": "Title",
+  "Description": "Description",
+  "MainTextButton": "Update",
+  "isCancelable": "true",
+  "cancelButtonText": "Cancel",
+  "downloadLink": "",
+  "version": "1.1"
+}
